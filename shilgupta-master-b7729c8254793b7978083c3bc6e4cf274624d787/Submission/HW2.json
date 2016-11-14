@@ -1,0 +1,1 @@
+{"Email":"shilgupta@cs.stonybrook.edu","Name":"shilpa gupta","Q2":{"Negative":{"Attr0":"Life Expectancy","Attr1":"Commercial Prime Lending Rate","coeff":-0.4418,"pValue":0.001},"Positive":{"Attr0":"Population","Attr1":"Labor Force","coeff":0.9801,"pValue":0.001}},"Q3":{"Attr":"Life Expectancy","SquaredError":0.0859},"SBUID":"110948405"}
